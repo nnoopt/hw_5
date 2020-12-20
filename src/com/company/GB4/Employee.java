@@ -1,7 +1,6 @@
 package com.company.GB4;
 
 public class Employee {
-
     String name;
     String position;
     String email;
